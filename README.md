@@ -1,1 +1,1 @@
-# defaul-securtiy-header
+# default-securtiy-header
